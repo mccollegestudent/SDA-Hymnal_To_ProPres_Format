@@ -3,8 +3,8 @@
 
 1) Ensure that these group identifiers are present in propresenter before importing files for the default code to work:
 
-   Intro
-   Chorus
+   Intro, 
+   Chorus, 
    Verse # - (where # is 1 to 7 eg. Verse 7)
  
 2) NB - minimum of 7 verse Identifiers are required 
