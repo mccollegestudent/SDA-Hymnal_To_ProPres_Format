@@ -12,4 +12,3 @@
 
  Also Easyworship compatible on SINGLE FILE import basis only.
  
-# Philippians 4:20 
